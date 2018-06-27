@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: spring-boot-restful
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: Saravanan
+Implementation-Vendor-Id: com.saran
+Build-Jdk: 1.8.0_161
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-bo
+ ot-starter-parent/spring-boot-restful-jpa
+Created-By: Maven Integration for Eclipse
+

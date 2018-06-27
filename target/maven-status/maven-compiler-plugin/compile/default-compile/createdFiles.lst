@@ -1,0 +1,7 @@
+com\saran\service\ArticleService.class
+com\saran\entity\Article.class
+com\saran\MyApplication.class
+com\saran\repository\ArticleRepository.class
+com\saran\service\IArticleService.class
+com\saran\controller\ArticleInfo.class
+com\saran\controller\ArticleController.class
